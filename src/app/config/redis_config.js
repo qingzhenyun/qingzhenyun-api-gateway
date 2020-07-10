@@ -2,7 +2,7 @@
 module.exports = {
     'host': '192.168.250.14',
     'port':6379,
-    'password':'xijingping*SB#zhutou',
+    'password':'-',
     'string_numbers':false,
     'return_buffers':false,
     'detect_buffers':true,
