@@ -1,5 +1,5 @@
 module.exports = {
-    'JWT_SECRET_KEY': 'fuck gcd',
+    'JWT_SECRET_KEY': '-',
     'ICE':null,
     'FILE_TYPE':0,
     'ANY_FILE_TYPE':-1,
