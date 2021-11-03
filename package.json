@@ -24,7 +24,7 @@
         "parse-torrent": "^6.0.1",
         "request": "^2.88.0",
         "request-promise-native": "^1.0.5",
-        "validator": "^10.4.0",
+        "validator": "^13.7.0",
         "qcloudsms_js": "^0.1.1",
         "randomstring": "^1.1.5",
         "log4js": "^3.0.2",
