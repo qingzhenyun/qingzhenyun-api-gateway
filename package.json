@@ -27,7 +27,7 @@
         "validator": "^10.4.0",
         "qcloudsms_js": "^0.1.1",
         "randomstring": "^1.1.5",
-        "log4js": "^3.0.2",
+        "log4js": "^6.4.0",
         "redis": "^2.8.0",
         "bluebird": "^3.5.1",
         "ed2k-link": "^0.0.1",
